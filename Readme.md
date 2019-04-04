@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/MapSearch/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MapSearch/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MapSearch/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapSearch/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MapSearch/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MapSearch/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to perform the Search operation for multiple locations
